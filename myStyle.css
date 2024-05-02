@@ -1,0 +1,43 @@
+img {
+    height: 50px;
+    width: 50px;
+  }
+  .background {
+    color:aqua;
+  }
+  .color-title {
+    font-weight: normal;
+  }
+  #red {
+    color: rgba(255, 0, 68, 0.717);
+  }
+  #blue {
+    color: blue;
+  }
+  
+  #orange {
+    color: orange;
+  }
+  
+  #green {
+    color: green;
+  }
+  
+  #yellow {
+    color: yellow;
+  }
+  #pink {
+    color:pink;
+  }
+  #grey {
+    color:grey;
+  }
+  #purple {
+    color:purple;
+  }
+  #brown {
+    color:brown;
+  }
+  .color-title{
+    font-weight: normal;
+  }
